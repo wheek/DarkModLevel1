@@ -1,0 +1,12 @@
+DarkRadiant Map Information File Version 2
+{
+	Layers
+	{
+		Layer 0 { Default }
+	}
+	NodeToLayerMapping
+	{
+		Node { 0 } // entity (world)
+		Node { 0 } // primitive (Patch)
+	}
+}
