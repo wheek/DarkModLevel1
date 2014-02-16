@@ -4,8 +4,8 @@ Version 2
 "classname" "worldspawn"
 "_color" "0.30 0.66 0.79"
 "s_shader" "ai_stone_footstep"
-"editor_drLastCameraPos" "4410.23 1603.67 405.323"
-"editor_drLastCameraAngle" "1.80002 62.8444 0"
+"editor_drLastCameraPos" "4543.93 1988.38 27.6331"
+"editor_drLastCameraAngle" "-2.39998 281.244 0"
 // primitive 0
 {
 brushDef3
@@ -36319,7 +36319,7 @@ brushDef3
 "classname" "info_player_start"
 "name" "info_player_start_1"
 "angle" "135"
-"origin" "4160 1671 326"
+"origin" "3992 1699 -86"
 }
 // entity 555
 {
@@ -41746,7 +41746,7 @@ brushDef3
 ( 3.725290298461914e-008 0.2455743253231049 -0.9693778157234192 -34.1717529296875 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
 ( 1.192092895507813e-007 0.6627871990203857 -0.7488077878952026 -32.739501953125 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
 ( 1.192092895507813e-007 0.9173719882965088 -0.3980309963226318 -30.6832275390625 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
-( 1.490116261493313e-007 1 0 -30.04317283630371 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
+( 1.490116261493313e-007 1 0 -30.04317283630417 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
 ( 1.192092895507813e-007 0.9173719882965088 0.3980309963226318 -37.171142578125 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
 ( 8.940696716308594e-008 0.6627874374389648 0.7488076686859131 -43.9442138671875 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
 ( -0.1919971406459808 0.1531130969524384 -0.969377875328064 -34.220947265625 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/nature/foliage/hedge_001" 0 0 0
@@ -66053,6 +66053,22 @@ brushDef3
 {
 "classname" "func_static"
 "name" "func_static_870"
-"origin" "4542 1779 326"
 "model" "models/darkmod/lights/extinguishable/standing_candelabra02.lwo"
+"origin" "4542 1779 326"
+}
+// entity 3711
+{
+"classname" "atdm:torch_metal_wall"
+"name" "atdm_torch_metal_wall_28"
+"origin" "4564 1865 23"
+}
+// entity 3712
+{
+"classname" "light_torchflame_moving"
+"name" "light_torchflame_moving_32"
+"_color" "0.80 0.51 0.34"
+"light_center" "0 -4 0"
+"light_radius" "200 200 200"
+"origin" "4558.18 1865.19 32"
+"rotation" "0 -1 0 1 0 0 0 0 1"
 }

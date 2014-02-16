@@ -6780,5 +6780,7 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (atdm_lamp_electric_fancy_up_lit_3)
 		Node { 0 } // entity (atdm_lamp_electric_fancy_up_lit_4)
 		Node { 0 } // entity (func_static_870)
+		Node { 0 } // entity (atdm_torch_metal_wall_28)
+		Node { 0 } // entity (light_torchflame_moving_32)
 	}
 }
